@@ -1,0 +1,20 @@
+Final project
+Kaasila Erik
+ekaasila
+Yudysky Matt
+yud
+
+User’s Guide:
+
+RED BOX = Nodes
+YELLOW LINE = Available paths
+
+This maze game is able to randomly generate mazes. Once you launch the program, it will prompt you to enter a number between 1 and 11. After doing so, the randomly generated maze will display. Next, press ‘b’ for breadth first search or ‘d’ for depth first search. Finally, repeatedly press ‘z’ to display the path.
+———————————————————————————
+1. Enter a number between 1-11 in the console.
+2. Press ‘b’ or ‘d’.
+3. Press ‘z’ to display the path one step at a time.
+4. Press ’s’ to show a new maze.
+
+
+WARNING, YOU MUST PRESS ‘b’ OR ‘d’ BEFORE PRESSING ‘z’! You have to search before you display the path!
